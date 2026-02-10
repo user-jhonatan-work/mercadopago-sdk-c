@@ -4,18 +4,12 @@
   "repo": "https://github.com/user-jhonatan-work/mercadopgo-c/",
   "description": "Mercadopago SDK",
   "keywords": [
-
     "mercadopago",
     "library", 
-    "sdk",
+    "sdk"
+   ],
 
-  ],
-
-  "dependencies":{
-
-    "none": "0.0.0",
-  },
-
+  "license": "MIT", 
   "install": "make install",
   "uninstall": "make uninstall"
 }
