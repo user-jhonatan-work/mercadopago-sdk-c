@@ -1,0 +1,21 @@
+{
+  "name": "mercadopago-sdk-c",
+  "version": "0.1.0",
+  "repo": "https://github.com/user-jhonatan-work/mercadopgo-c/",
+  "description": "Mercadopago SDK",
+  "keywords": [
+
+    "mercadopago",
+    "library", 
+    "sdk",
+
+  ],
+
+  "dependencies":{
+
+    "none": "0.0.0",
+  },
+
+  "install": "make install",
+  "uninstall": "make uninstall"
+}
